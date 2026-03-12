@@ -26,7 +26,7 @@
 // Output
 // [null, null, null, 2, 2, false]
 
-
+// Approach 1 using two queues.
 var MyStack = function() {
     this.q1=[];
     this.q2=[];
